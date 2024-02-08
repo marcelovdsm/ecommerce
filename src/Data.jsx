@@ -1,0 +1,50 @@
+export const data = [
+  {
+    id: 1,
+    title:'product 1',
+    category: 'Food',
+    img:'https://picsum.photos/100/100',
+    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum imperdiet fringilla. Praesent elementum dui a mi dignissim, sed consequat dui sodales. Sed condimentum at nulla sed interdum. Curabitur gravida, libero quis dictum maximus, arcu dolor consequat sapien, vitae dignissim lacus ante et lorem. Aenean elit purus, consectetur vitae diam nec, auctor porta nisi. Mauris vitae ante tellus. Integer aliquet dignissim pretium.',
+    price: '10',
+  },
+  {
+    id: 2,
+    title:'product 2',
+    category: 'Clothes',
+    img:'https://picsum.photos/100/100',
+    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum imperdiet fringilla. Praesent elementum dui a mi dignissim, sed consequat dui sodales. Sed condimentum at nulla sed interdum. Curabitur gravida, libero quis dictum maximus, arcu dolor consequat sapien, vitae dignissim lacus ante et lorem. Aenean elit purus, consectetur vitae diam nec, auctor porta nisi. Mauris vitae ante tellus. Integer aliquet dignissim pretium.',
+    price: '10',
+  },
+  {
+    id: 3,
+    title:'product 3',
+    category: 'Food',
+    img:'https://picsum.photos/100/100',
+    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum imperdiet fringilla. Praesent elementum dui a mi dignissim, sed consequat dui sodales. Sed condimentum at nulla sed interdum. Curabitur gravida, libero quis dictum maximus, arcu dolor consequat sapien, vitae dignissim lacus ante et lorem. Aenean elit purus, consectetur vitae diam nec, auctor porta nisi. Mauris vitae ante tellus. Integer aliquet dignissim pretium.',
+    price: '10',
+  },
+  {
+    id: 4,
+    title:'product 4',
+    category: 'Clothes',
+    img:'https://picsum.photos/100/100',
+    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum imperdiet fringilla. Praesent elementum dui a mi dignissim, sed consequat dui sodales. Sed condimentum at nulla sed interdum. Curabitur gravida, libero quis dictum maximus, arcu dolor consequat sapien, vitae dignissim lacus ante et lorem. Aenean elit purus, consectetur vitae diam nec, auctor porta nisi. Mauris vitae ante tellus. Integer aliquet dignissim pretium.',
+    price: '10',
+  },
+  {
+    id: 5,
+    title:'product 5',
+    category: 'Sneakers',
+    img:'https://picsum.photos/100/100',
+    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum imperdiet fringilla. Praesent elementum dui a mi dignissim, sed consequat dui sodales. Sed condimentum at nulla sed interdum. Curabitur gravida, libero quis dictum maximus, arcu dolor consequat sapien, vitae dignissim lacus ante et lorem. Aenean elit purus, consectetur vitae diam nec, auctor porta nisi. Mauris vitae ante tellus. Integer aliquet dignissim pretium.',
+    price: '10',
+  },
+  {
+    id: 6,
+    title:'product 6',
+    category: 'Sneakers',
+    img:'https://picsum.photos/100/100',
+    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum imperdiet fringilla. Praesent elementum dui a mi dignissim, sed consequat dui sodales. Sed condimentum at nulla sed interdum. Curabitur gravida, libero quis dictum maximus, arcu dolor consequat sapien, vitae dignissim lacus ante et lorem. Aenean elit purus, consectetur vitae diam nec, auctor porta nisi. Mauris vitae ante tellus. Integer aliquet dignissim pretium.',
+    price: '10',
+  }
+]
