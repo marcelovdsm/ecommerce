@@ -1,6 +1,8 @@
+import { CardComponent } from "./styles"
+
 export const Card = ({item}) => {
   return (
-    <div>
+    <CardComponent>
       <div>
         {item.map((val) => (
           <div key={val.id}>
@@ -13,6 +15,6 @@ export const Card = ({item}) => {
           </div>
         ))}
       </div>
-    </div>
+    </CardComponent>
   )
 }
