@@ -4,11 +4,11 @@ export const Header = () => {
   return(
     <HeaderComponent>
       <HeaderNav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/Cart">Cart</a></li>
-          <li><a href="/Contact">Contact us</a></li>
-        </ul>
+          <a href="/">HOME</a>
+        <div>
+          <a href="/Cart">CART</a>
+          <a href="/Contact">CONTACT US</a>
+        </div>
       </HeaderNav>
     </HeaderComponent>
   )
