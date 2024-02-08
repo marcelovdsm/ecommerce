@@ -1,10 +1,15 @@
+import { HeaderComponent, HeaderNav } from "./styles"
+
 export const Header = () => {
   return(
-    <div>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/Cart">Cart</a>
-      </nav>
-    </div>
+    <HeaderComponent>
+      <HeaderNav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/Cart">Cart</a></li>
+          <li><a href="/Contact">Contact us</a></li>
+        </ul>
+      </HeaderNav>
+    </HeaderComponent>
   )
 }
